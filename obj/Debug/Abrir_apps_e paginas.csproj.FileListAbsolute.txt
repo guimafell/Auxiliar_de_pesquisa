@@ -1,0 +1,10 @@
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\bin\Debug\Abrir_apps_e paginas.exe.config
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\bin\Debug\Abrir_apps_e paginas.exe
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\bin\Debug\Abrir_apps_e paginas.pdb
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e paginas.csprojAssemblyReference.cache
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e_paginas.Form1.resources
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e_paginas.Properties.Resources.resources
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e paginas.csproj.GenerateResource.cache
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e paginas.csproj.CoreCompileInputs.cache
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e paginas.exe
+C:\Users\guima\Desktop\estudos\git\Abrir_apps_e paginas\obj\Debug\Abrir_apps_e paginas.pdb
